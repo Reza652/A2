@@ -6,7 +6,7 @@ let angle1 = 0;
 let angle2 = 0;
 let angle1_velocity = 0;
 let angle2_velocity = 0;
-let gravity= 2;
+let gravity= 1;
 const friction = 0.0002;
 
 let pixelx2 = -1;
